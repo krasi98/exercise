@@ -1,8 +1,7 @@
 # exercise
 Fundamental
+new branch
 make error!!!!
 <<<<<<< HEAD
 i make change whith this text
-again 
-=======
-this master
+promqna v stara papka 
