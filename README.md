@@ -5,5 +5,4 @@ make error!!!!
 i make change whith this text
 again 
 =======
-i make changes
->>>>>>> developer
+this master
